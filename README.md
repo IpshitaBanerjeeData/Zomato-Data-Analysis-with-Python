@@ -24,24 +24,3 @@ The analysis answers critical industry questions, including:
 * **Budget Comfort Zone:** Most couples prefer dining locations with an approximate cost of 300 rupees.
 * **The Rating Gap:** Restaurants accepting online orders consistently secure higher ratings compared to offline-only spots.
 * **Behavioral Shifts:** Heatmap correlations reveal that customers favor ordering online from cafes, but choose to visit dining restaurants in person.
-
-## 🚀 How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone
-cd YOUR_REPOSITORY_NAME
-```
-
-### 2. Install Required Packages
-Make sure you have Python installed, then run:
-```bash
-pip install pandas numpy matplotlib seaborn notebook
-```
-
-### 3. Open the Notebook
-Launch Jupyter Notebook to view and run the code:
-```bash
-jupyter notebook
-```
-Click on `Zomato_Data_Analysis.ipynb` inside your browser to explore the full data journey!
